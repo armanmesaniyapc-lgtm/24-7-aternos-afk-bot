@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "T4XSMP.aternos.me
-",
+    "ip": "T4XSMP.aternos.me",
     "port": 18958,
     "version": "1.20.1",
     "try-creative": false
